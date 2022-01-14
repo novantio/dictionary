@@ -1,6 +1,6 @@
 # latin word 
 
-** abbas abbatis : ** father / abbot.
+# ** abbas abbatis : ** father / abbot.
 **abbatia : ** abbey, monastery.
 **abduco : ** to lead, or take away / detach, withdraw. 
 **abeo : ** to go away, retire / depart from life, die.
