@@ -1,3 +1,5 @@
-# dictionary
+## dictionary
+for language common used
 
-for language
+## Content
+[latin](https://github.com/novantio/dictionary/blob/main/latin/dictionary_latin.md)
